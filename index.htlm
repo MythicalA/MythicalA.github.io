@@ -1,0 +1,12 @@
+<!doctype htlm>
+<htlm lang= "en">
+<head>
+<title>Creative Title</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Creative Heading </h1> 
+<p> Very Insightful Thoughts and Observations <p/1>
+<script src="js/script.js"></script>
+</body>
+</html>
